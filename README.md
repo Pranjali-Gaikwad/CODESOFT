@@ -1,2 +1,2 @@
-# CODESOFT
+# CODSOFT
 C++ Internship Program Project
